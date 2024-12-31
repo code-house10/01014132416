@@ -1,4 +1,5 @@
-﻿
+﻿@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
 
 /* line 2, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .btn_1, .btn_2:hover, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
@@ -17,11 +18,6 @@
 ==========================  **/
 
 
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
-
-body {
-    font-family: 'Cairo', sans-serif;
-}
 
 .theme-loader {
     height: 100%;
